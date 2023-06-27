@@ -3,9 +3,9 @@
 
 # 🌐 Socials:
 
-<a href="https://www.hackerrank.com/jmlopezfabian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmlopezfabian" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gzuz0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gzuz0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jmlopezfabian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmlopezfabian" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jmlopezfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmlopezfabian" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gzuz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gzuz0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jmlopezfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmlopezfabian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jmlopezfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmlopezfabian" height="30" width="40" /></a>
 
 # 💻 Tech Stack:

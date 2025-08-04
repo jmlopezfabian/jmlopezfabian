@@ -14,13 +14,6 @@
   </div>
 </div>
 
-<div style="text-align: center; margin: 60px 0;">
-  <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-    <img src="https://komarev.com/ghpvc/?username=jmlopezfabian&label=Profile%20views&color=ffffff&style=flat" alt="jmlopezfabian" style="filter: brightness(0) invert(1);" />
-  </div>
-</div>
-
-
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <h3 style="color: white; margin: 0 0 20px 0; font-size: 1.5em; text-align: center;">Connect with me:</h3>

@@ -69,7 +69,6 @@
 </div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 40px 0; box-shadow: 0 12px 40px rgba(0,0,0,0.15);">
-
     <div style="text-align: center; position: relative;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezfabian&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 15px; max-width: 100%; height: auto; box-shadow: 0 8px 25px rgba(0,0,0,0.2);" />
     </div>

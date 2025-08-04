@@ -66,3 +66,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jmlopezfabian&show_icons=true&locale=en&theme=radical" alt="jmlopezfabian" style="border-radius: 10px;" />
   </div>
 </div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezfabian&show_icons=true&locale=en&layout=compact&theme=radical" alt="jmlopezfabian" style="border-radius: 10px;" />
+  </div>
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+  <div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmlopezfabian&theme=radical" alt="jmlopezfabian" style="border-radius: 10px;" />
+  </div>
+</div>

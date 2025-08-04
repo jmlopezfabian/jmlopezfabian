@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="images/1695690220729.jpg" alt="Profile Image" width="300" height="300" style="border-radius: 50%; border: 4px solid #007acc; box-shadow: 0 8px 32px rgba(0, 122, 204, 0.3);">
+<div align="center" style="margin: 30px 0;">
+  <img src="images/1695690220729.jpg" alt="Profile Image" width="1200" height="500" style="border-radius: 20px; border: 4px solid #007acc; box-shadow: 0 15px 50px rgba(0, 122, 204, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; max-width: 100%; height: auto;">
 </div>
 
 <div align="center">
@@ -14,23 +14,25 @@
   </div>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlopezfabian&label=Profile%20views&color=0e75b6&style=flat" alt="jmlopezfabian" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmlopezfabian" alt="jmlopezfabian" /></a> </p>
+<div style="text-align: center; margin: 20px 0;">
+  <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <img src="https://komarev.com/ghpvc/?username=jmlopezfabian&label=Profile%20views&color=ffffff&style=flat" alt="jmlopezfabian" style="filter: brightness(0) invert(1);" />
+  </div>
+</div>
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <h3 style="color: white; margin: 0 0 20px 0; font-size: 1.5em; text-align: center;">Connect with me:</h3>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://linkedin.com/in/jmlopezfabian" target="blank" style="transition: transform 0.3s ease;">
+    <a href="https://linkedin.com/in/jmlopezfabian" target="blank" style="transition: all 0.3s ease; display: inline-block; padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.1);" onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.1)'">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmlopezfabian" height="40" width="50" style="filter: brightness(0) invert(1);" />
     </a>
-    <a href="https://www.hackerrank.com/jmlopezfabian" target="blank" style="transition: transform 0.3s ease;">
+    <a href="https://www.hackerrank.com/jmlopezfabian" target="blank" style="transition: all 0.3s ease; display: inline-block; padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.1);" onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.1)'">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmlopezfabian" height="40" width="50" style="filter: brightness(0) invert(1);" />
     </a>
-    <a href="https://codeforces.com/profile/gzuz0" target="blank" style="transition: transform 0.3s ease;">
+    <a href="https://codeforces.com/profile/gzuz0" target="blank" style="transition: all 0.3s ease; display: inline-block; padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.1);" onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.1)'">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gzuz0" height="40" width="50" style="filter: brightness(0) invert(1);" />
     </a>
-    <a href="https://www.leetcode.com/jmlopezfabian" target="blank" style="transition: transform 0.3s ease;">
+    <a href="https://www.leetcode.com/jmlopezfabian" target="blank" style="transition: all 0.3s ease; display: inline-block; padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.1);" onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.1)'">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmlopezfabian" height="40" width="50" style="filter: brightness(0) invert(1);" />
     </a>
   </div>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/1695690220729.jpg" alt="Profile Image" width="300" height="300" style="border-radius: 50%;">
+  <img src="images/1695690220729.jpg" alt="Profile Image" width="1200" height="600" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jesús Manuel</h1>

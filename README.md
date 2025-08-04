@@ -38,23 +38,6 @@
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-  <h3 style="color: white; margin: 0 0 20px 0; font-size: 1.5em; text-align: center;">Languages and Tools:</h3>
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="transition: transform 0.3s ease;"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="filter: brightness(0) invert(1);"/> </a> 
-  </div>
-</div>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 30px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <div style="text-align: center;">

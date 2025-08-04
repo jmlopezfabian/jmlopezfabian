@@ -1,5 +1,5 @@
 <div align="center" style="margin: 30px 0;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F300122762658994425%2F&psig=AOvVaw0SEajsoEoPWvuQW8kK04vl&ust=1754370491001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiL08Cx8I4DFQAAAAAdAAAAABAE" alt="Profile Image" width="1200" height="500" style="border-radius: 20px; border: 4px solid #007acc; box-shadow: 0 15px 50px rgba(0, 122, 204, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; max-width: 100%; height: auto;">
+  <img src="images/1695690220729.jpg" alt="Profile Image" width="1200" height="500" style="border-radius: 20px; border: 4px solid #007acc; box-shadow: 0 15px 50px rgba(0, 122, 204, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; max-width: 100%; height: auto;">
 </div>
 
 <div align="center">

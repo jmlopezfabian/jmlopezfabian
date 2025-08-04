@@ -14,13 +14,13 @@
   </div>
 </div>
 
-<div style="text-align: center; margin: 40px 0;">
+<div style="text-align: center; margin: 60px 0;">
   <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
     <img src="https://komarev.com/ghpvc/?username=jmlopezfabian&label=Profile%20views&color=ffffff&style=flat" alt="jmlopezfabian" style="filter: brightness(0) invert(1);" />
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 50px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <h3 style="color: white; margin: 0 0 20px 0; font-size: 1.5em; text-align: center;">Connect with me:</h3>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/jmlopezfabian" target="blank" style="transition: all 0.3s ease; display: inline-block; padding: 10px; border-radius: 10px; background: rgba(255,255,255,0.1);" onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.1)'">
@@ -39,19 +39,19 @@
 </div>
 
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 50px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=jmlopezfabian&show_icons=true&locale=en&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 10px;" />
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 50px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <div style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmlopezfabian&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 10px;" />
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 50px 0; box-shadow: 0 12px 40px rgba(0,0,0,0.15);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 70px 0; box-shadow: 0 12px 40px rgba(0,0,0,0.15);">
     <div style="text-align: center; position: relative;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezfabian&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 15px; max-width: 100%; height: auto; box-shadow: 0 8px 25px rgba(0,0,0,0.2);" />
     </div>

@@ -20,7 +20,9 @@
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+<div style="text-align: center; margin: 50px 0;">
+  <hr style="border: none; height: 3px; background: linear-gradient(90deg, transparent, #667eea, #764ba2, transparent); border-radius: 2px; box-shadow: 0 2px 10px rgba(102, 126, 234, 0.3);">
+</div>
 
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <h3 style="color: white; margin: 0 0 20px 0; font-size: 1.5em; text-align: center;">Connect with me:</h3>
@@ -61,6 +63,4 @@
   <div style="text-align: center; margin-top: 20px;">
 
   </div>
-</div>
-
 </div>

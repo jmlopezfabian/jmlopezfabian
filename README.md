@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/1695690220729.jpg" alt="Profile Image" width="300" height="300" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Jesús Manuel</h1>
 <h3 align="center">A Data Scientist passionate about competitive programming and generative AI agents</h3>
 

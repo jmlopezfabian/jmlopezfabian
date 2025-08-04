@@ -2,8 +2,9 @@
   <img src="images/1695690220729.jpg" alt="Profile Image" width="1200" height="600" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jesús Manuel</h1>
-<h3 align="center">A Data Scientist passionate about competitive programming and generative AI agents</h3>
+<h1 align="center">Hi, I'm Jesús Manuel</h1>
+<h3 align="center">A data scientist passionate about teaching and programming, with experience in data analysis, automation, and generative AI agents.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmlopezfabian&label=Profile%20views&color=0e75b6&style=flat" alt="jmlopezfabian" /> </p>
 

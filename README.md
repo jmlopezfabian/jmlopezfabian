@@ -37,25 +37,4 @@
   <hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #667eea, #764ba2, transparent); border-radius: 2px; box-shadow: 0 2px 10px rgba(102, 126, 234, 0.3);">
 </div>
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-  <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmlopezfabian&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 10px;" />
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 70px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jmlopezfabian&show_icons=true&locale=en&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 10px;" />
-  </div>
-</div>
-
-
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 70px 0; box-shadow: 0 12px 40px rgba(0,0,0,0.15);">
-    <div style="text-align: center; position: relative;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmlopezfabian&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="jmlopezfabian" style="border-radius: 15px; max-width: 100%; height: auto; box-shadow: 0 8px 25px rgba(0,0,0,0.2);" />
-    </div>
-  <div style="text-align: center; margin-top: 20px;">
-
-  </div>
 </div>

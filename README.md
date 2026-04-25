@@ -4,26 +4,14 @@
 
 <div align="center">
   <h1>Hi, I'm Jesús Manuel</h1>
-  <p>A data scientist passionate about teaching and programming, with experience in data analysis, automation, and generative AI agents.</p>
+  <p>Data scientist & AI engineer from Mexico City. I build multi-agent systems, data pipelines, and LLM-powered products — and make data science education accessible.</p>
 </div>
 
 ---
 
 <div align="center">
   <h3>Connect with me:</h3>
-
-  <a href="https://linkedin.com/in/jmlopezfabian" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/jmlopezfabian" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" />
-  </a>
-  <a href="https://codeforces.com/profile/gzuz0" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" />
-  </a>
-  <a href="https://www.leetcode.com/jmlopezfabian" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
-  </a>
+  <a href="https://linkedin.com/in/jmlopezfabian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a> <a href="https://www.hackerrank.com/jmlopezfabian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" /></a> <a href="https://codeforces.com/profile/gzuz0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" /></a> <a href="https://www.leetcode.com/jmlopezfabian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>
 </div>
 
 ---

@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm Jesús Manuel</h1>
-  <p>Data scientist & AI engineer from Mexico City. I build multi-agent systems, data pipelines, and LLM-powered products — and make data science education accessible.</p>
+  <p>Data scientist & AI engineer from Mexico City — building multi-agent systems, data pipelines, and LLM-powered products. Passionate about making data science education accessible.</p>
 </div>
 
 ---

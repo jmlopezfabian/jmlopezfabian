@@ -7,19 +7,6 @@
   <p>Data scientist & AI engineer from Mexico City — building multi-agent systems, data pipelines, and LLM-powered products. Passionate about making data science education accessible.</p>
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmlopezfabian)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/jmlopezfabian)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gzuz0)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jmlopezfabian)
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -41,8 +28,6 @@
 
 </div>
 
----
-
 ## Currently Working On
 
 | Project | Description |
@@ -52,4 +37,13 @@
 | **Social Network Analysis** | Graph-based analysis of character relationships and interaction patterns across a media franchise |
 | **Tukey Lab** | Educational hub for data science with guided lessons, visualizations, and real-world datasets |
 
----
+## Links
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmlopezfabian)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/jmlopezfabian)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gzuz0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jmlopezfabian)
+
+</div>
